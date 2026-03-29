@@ -1,5 +1,5 @@
 # Blindness-and-Vision-Loss-2021
-=========================================================================================================================
+================================================================================
 Global, Regional, and National Trends in Blindness and Vision Loss, 1990–2021: a Secondary Ecological Trend Analysis Based on Modelled Population Estimates
 
 This repository contains the analysis scripts and reproduction package for the study of global vision loss burden. Our reporting adheres to the GRABDROP (Guidelines for Reporting Analyses of Big Data Repositories Open to Public) and GATHER guidelines.
@@ -24,4 +24,4 @@ BAPC_Forecasting/: R scripts for Bayesian Age-Period-Cohort forecasting through 
      INLA: For Integrated Nested Laplace Approximations.
    Model Config: Poisson likelihood, Log link function, and Second-order Random Walk (RW2) priors to ensure smoothing.
 
-=========================================================================================================================
+================================================================================
